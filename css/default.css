@@ -6,9 +6,12 @@ h1{
 }
 h2{
   font-size:20px;
+  font-weight:bold;
 }
 h3{
   font-size:20px;
+  border:#40e0d0 2px dotted;
+  border-left:#afeeee 5px solid;
 }
 h4{
   font-size:20px;
