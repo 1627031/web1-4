@@ -4,11 +4,11 @@ h1{
   font-size:1em;
   background-color:#afeeee;
 }
-h2.greeting{
+.greeting{
   font-size:1em;
   font-weight:300;
 }
-h3{
+#waku{
   font-size:1em;
   border:#40e0d0 2px dotted;
   border-left:#afeeee 5px solid;
