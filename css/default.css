@@ -4,7 +4,7 @@ h1{
   font-size:1em;
   background-color:#afeeee;
 }
-h2{
+h2.greeting{
   font-size:1em;
   font-weight:300;
 }
