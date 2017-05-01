@@ -6,7 +6,7 @@ h1{
 }
 h2{
   font-size:1em;
-  font-weight:bold;
+  font-weight:300;
 }
 h3{
   font-size:1em;
@@ -14,5 +14,8 @@ h3{
   border-left:#afeeee 5px solid;
 }
 h4{
+  font-size:1em;
+}
+h4 span{
   font-size:1em;
 }
