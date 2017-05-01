@@ -8,7 +8,7 @@ h1{
   font-size:1em;
   background-color:#afeeee;
 }
-.greeting{
+.weight{
   font-size:1em;
   font-weight:900;
 }
@@ -17,9 +17,7 @@ h1{
   border:#40e0d0 2px dotted;
   border-left:#afeeee 5px solid;
 }
-/*h4{
-  font-size:1em;
-}*/
+
 h4 span{
   font-size:3em;
 }
