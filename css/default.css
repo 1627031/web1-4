@@ -1,12 +1,15 @@
-@charset"utf-8";
+@charset"UTF-8";
 
 h1{
-  font-size:20pz;
+  font-size:20px;
   background-color:#afeeee;
 }
 h2{
+  font-size:20px;
 }
 h3{
+  font-size:20px;
 }
 h4{
+  font-size:20px;
 }
